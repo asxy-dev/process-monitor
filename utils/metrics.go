@@ -1,3 +1,6 @@
+//code written by amish
+
+
 package utils
 
 import (
